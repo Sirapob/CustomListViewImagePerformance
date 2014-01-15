@@ -11,187 +11,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e68fc8c4-66c2-444b-be0a-cde263075317" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/CustomListViewImagePerformance.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/DecodeTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$array.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$menu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/aerithgainsborough.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/aerithgainsborough.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app/akexorcist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/akexorcist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-fe3a8acda82875c2b0dee3404796adee.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/barretwallace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/barretwallace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/caitsith.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/caitsith.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/cidhighwind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/cidhighwind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/cloudstrife.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/cloudstrife.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/classes/app/akexorcist/customlistviewimageperformance" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app/akexorcist/customlistviewimageperformance" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dexedLibs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/elena.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/elena.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/elfe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/elfe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/fuhito.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/fuhito.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/gun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/gun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/heidegger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/heidegger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ic_launcher-web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/katana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/katana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/knife.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/knife.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/martialartsf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/martialartsf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/martialartsm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/martialartsm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/nunchaku.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/nunchaku.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/presidentshinra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/presidentshinra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/professorhojo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/professorhojo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/redxiii.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/redxiii.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/reevetuesti.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/reevetuesti.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/renosinclair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/renosinclair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/rod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/rod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/rude.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/rude.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/rufusshinra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/rufusshinra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/scarlet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/scarlet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/sears.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sears.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/sephiroth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sephiroth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/shalva.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/shalva.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/shotgun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/shotgun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/shuriken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/shuriken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/tifalockhart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tifalockhart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/tseng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tseng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/twoguns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/twoguns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw600dp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw720dp-land" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v11" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v14" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/verdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/verdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/vincentvalentine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/vincentvalentine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/yuffiekisaragi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/yuffiekisaragi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/res/crunch/drawable/zackfair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/zackfair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app/akexorcist/customlistviewimageperformance/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustomListViewImagePerformance.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/DecodeTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app/akexorcist/customlistviewimageperformance/Manifest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/app/akexorcist/customlistviewimageperformance/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4_fe3a8acda82875c2b0dee3404796adee.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw600dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-sw720dp-land/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/jarlist.cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/listview_data.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/listview_row.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/selector_listview.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" readonly="true" id="e68fc8c4-66c2-444b-be0a-cde263075317" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/listview_row.xml" afterPath="$PROJECT_DIR$/res/layout/listview_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CustomListViewImagePerformance.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -258,7 +81,7 @@
       <file leaf-file-name="CustomListViewAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="33" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1125">
+            <state line="30" column="33" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -267,7 +90,7 @@
       <file leaf-file-name="DecodeTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/DecodeTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="89" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1254">
+            <state line="33" column="89" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1425">
               <folding />
             </state>
           </provider>
@@ -276,16 +99,16 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="990">
+            <state line="12" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listview_row.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="listview_row.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/layout/listview_row.xml">
           <provider editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="308">
+            <state line="8" column="4" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="500">
               <folding />
             </state>
           </provider>
@@ -303,10 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -324,6 +147,7 @@
   </component>
   <component name="Git.Settings">
     <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -364,26 +188,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomListViewImagePerformance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomListViewImagePerformance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomListViewImagePerformance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -409,6 +213,58 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CustomListViewImagePerformance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomListViewImagePerformance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -605,28 +461,7 @@
     <option name="IGNORE_EXTERNALS" value="false" />
     <configuration useDefault="true">C:\Users\sintchiahotmail.com\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\androidStudio\CustomListViewImagePerformance" />
-          <option name="myCopyRoot" value="D:\androidStudio\CustomListViewImagePerformance" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\androidStudio\CustomListViewImagePerformance\.idea" />
-          <option name="myCopyRoot" value="D:\androidStudio\CustomListViewImagePerformance\.idea" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\androidStudio\CustomListViewImagePerformance" />
-          <option name="myCopyRoot" value="D:\androidStudio\CustomListViewImagePerformance" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -638,7 +473,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -646,26 +481,26 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19978632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -687,6 +522,102 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/DecodeTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="89" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/listview_row.xml">
+      <provider editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/listview_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="2250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/DecodeTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="89" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/listview_row.xml">
+      <provider editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="350">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/listview_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="2250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="35" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
@@ -831,16 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/listview_row.xml">
-      <provider editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/akexorcist/customlistviewimageperformance/CustomListViewAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="33" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1125">
@@ -858,6 +779,16 @@
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/listview_row.xml">
+      <provider editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
